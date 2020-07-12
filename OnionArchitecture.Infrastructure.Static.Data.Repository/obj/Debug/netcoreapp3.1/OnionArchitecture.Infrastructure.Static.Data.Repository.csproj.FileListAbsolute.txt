@@ -1,0 +1,12 @@
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Infrastructure.Static.Data.Repository\bin\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.Static.Data.Repository.deps.json
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Infrastructure.Static.Data.Repository\bin\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.Static.Data.Repository.dll
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Infrastructure.Static.Data.Repository\bin\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.Static.Data.Repository.pdb
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Infrastructure.Static.Data.Repository\bin\Debug\netcoreapp3.1\OniionArchitecture.Core.Entities.dll
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Infrastructure.Static.Data.Repository\bin\Debug\netcoreapp3.1\OniionArchitecture.Core.Entities.pdb
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Infrastructure.Static.Data.Repository\obj\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.Static.Data.Repository.csprojAssemblyReference.cache
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Infrastructure.Static.Data.Repository\obj\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.Static.Data.Repository.AssemblyInfoInputs.cache
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Infrastructure.Static.Data.Repository\obj\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.Static.Data.Repository.AssemblyInfo.cs
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Infrastructure.Static.Data.Repository\obj\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.Static.Data.Repository.csproj.CoreCompileInputs.cache
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Infrastructure.Static.Data.Repository\obj\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.Static.Data.Repository.csproj.CopyComplete
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Infrastructure.Static.Data.Repository\obj\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.Static.Data.Repository.dll
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Infrastructure.Static.Data.Repository\obj\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.Static.Data.Repository.pdb

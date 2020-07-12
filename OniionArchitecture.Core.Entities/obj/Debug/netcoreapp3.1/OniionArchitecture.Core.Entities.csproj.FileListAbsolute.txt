@@ -1,0 +1,9 @@
+C:\Users\tayya\Desktop\OnionArchitecture\OniionArchitecture.Core.Entities\bin\Debug\netcoreapp3.1\OniionArchitecture.Core.Entities.deps.json
+C:\Users\tayya\Desktop\OnionArchitecture\OniionArchitecture.Core.Entities\bin\Debug\netcoreapp3.1\OniionArchitecture.Core.Entities.dll
+C:\Users\tayya\Desktop\OnionArchitecture\OniionArchitecture.Core.Entities\bin\Debug\netcoreapp3.1\OniionArchitecture.Core.Entities.pdb
+C:\Users\tayya\Desktop\OnionArchitecture\OniionArchitecture.Core.Entities\obj\Debug\netcoreapp3.1\OniionArchitecture.Core.Entities.csprojAssemblyReference.cache
+C:\Users\tayya\Desktop\OnionArchitecture\OniionArchitecture.Core.Entities\obj\Debug\netcoreapp3.1\OniionArchitecture.Core.Entities.AssemblyInfoInputs.cache
+C:\Users\tayya\Desktop\OnionArchitecture\OniionArchitecture.Core.Entities\obj\Debug\netcoreapp3.1\OniionArchitecture.Core.Entities.AssemblyInfo.cs
+C:\Users\tayya\Desktop\OnionArchitecture\OniionArchitecture.Core.Entities\obj\Debug\netcoreapp3.1\OniionArchitecture.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Users\tayya\Desktop\OnionArchitecture\OniionArchitecture.Core.Entities\obj\Debug\netcoreapp3.1\OniionArchitecture.Core.Entities.dll
+C:\Users\tayya\Desktop\OnionArchitecture\OniionArchitecture.Core.Entities\obj\Debug\netcoreapp3.1\OniionArchitecture.Core.Entities.pdb

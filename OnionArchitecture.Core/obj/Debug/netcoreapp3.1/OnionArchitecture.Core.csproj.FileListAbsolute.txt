@@ -1,0 +1,12 @@
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Core\bin\Debug\netcoreapp3.1\OnionArchitecture.Core.deps.json
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Core\bin\Debug\netcoreapp3.1\OnionArchitecture.Core.dll
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Core\bin\Debug\netcoreapp3.1\OnionArchitecture.Core.pdb
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Core\bin\Debug\netcoreapp3.1\OniionArchitecture.Core.Entities.dll
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Core\bin\Debug\netcoreapp3.1\OniionArchitecture.Core.Entities.pdb
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Core\obj\Debug\netcoreapp3.1\OnionArchitecture.Core.csprojAssemblyReference.cache
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Core\obj\Debug\netcoreapp3.1\OnionArchitecture.Core.AssemblyInfoInputs.cache
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Core\obj\Debug\netcoreapp3.1\OnionArchitecture.Core.AssemblyInfo.cs
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Core\obj\Debug\netcoreapp3.1\OnionArchitecture.Core.csproj.CoreCompileInputs.cache
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Core\obj\Debug\netcoreapp3.1\OnionArchitecture.Core.csproj.CopyComplete
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Core\obj\Debug\netcoreapp3.1\OnionArchitecture.Core.dll
+C:\Users\tayya\Desktop\OnionArchitecture\OnionArchitecture.Core\obj\Debug\netcoreapp3.1\OnionArchitecture.Core.pdb

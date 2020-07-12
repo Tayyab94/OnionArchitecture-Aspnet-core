@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZyfHoF9ADKEOfsqiABypTUowRHy4YHwfzW8d37ZwVUnp2pZkZCqtPBzpguS5wDx1iaoDyJi3t/b7w9UQd7X1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tayya\\Desktop\\OnionArchitecture\\OnionArchitecture\\OnionArchitecture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
